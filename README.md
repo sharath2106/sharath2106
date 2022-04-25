@@ -11,7 +11,7 @@ My name is Gopi Shankar Haridas, and I am a Test Automation Engineer with 10 yea
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 I'm here:
 
 <a href="https://linkedin.com/in/gopishankar-haridas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopishankar" height="30" width="40" /></a>
 &nbsp;&nbsp;
