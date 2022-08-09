@@ -3,7 +3,7 @@
 My name is Gopi Shankar Haridas, and I am a Test Automation Engineer with 10 years of experience in Web, Mobile and API automation. I am from India, currently working at Ocado Technology, London, United Kingdom! 
 
 - 🌱 I’m currently learning about Kubernetes & Devops technologies 
-- 🥅 2022 Goals: Contribute to open source software. My target is 15 PR's for the year.
+- 🥅 2022 Goals: Contribute to open source software. 
 - 💬 Ask me about Selenium, Playwright, TestCafe, Appium, Rest Assured, Docker
 - ⚡ Fun fact: I love to travel, and I have once travelled to Kanyakumari just because the next bus I saw was heading to Kanyakumari.
 
