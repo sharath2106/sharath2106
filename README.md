@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I'm Gopi Shankar Haridas, and I am a Test Automation Engineer with 10 years of experience in Web, Mobile and API automation. I am from India, currently working at London, United Kingdom! 
+I'm Gopi Shankar Haridas, and I am a Test Automation Engineer with 12 years of experience in Web, Mobile and API automation. Currently working at London, United Kingdom! 
 
 - 🌱 I’m currently learning about Kubernetes & Devops technologies 
 - 🥅 2024 Goals: Contribute to open source software. 
